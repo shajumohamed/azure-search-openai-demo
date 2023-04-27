@@ -35,7 +35,7 @@ param formRecognizerServiceName string = ''
 param formRecognizerResourceGroupName string = ''
 param formRecognizerResourceGroupLocation string = location
 
-param formRecognizerSkuName string = 'S0'
+param formRecognizerSkuName string = 'F0'
 
 param gptDeploymentName string = 'davinci'
 param gptModelName string = 'text-davinci-003'
