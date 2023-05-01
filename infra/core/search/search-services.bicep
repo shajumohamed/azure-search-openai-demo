@@ -3,7 +3,7 @@ param location string = resourceGroup().location
 param tags object = {}
 
 param sku object = {
-  name: 'basic'
+  name: 'standard'
 }
 
 param authOptions object = {}
